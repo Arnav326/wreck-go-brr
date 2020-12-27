@@ -1,2 +1,2 @@
-# wreck-go-brr
-Wreck cardboard boxes to relieve stress, 100% doctor approved
+# p5.play-boilerplate
+Boiler plate for p5.play
